@@ -17,3 +17,8 @@ it allows users to see data wrt city, month, week, time and do statistical analy
 ### Credits
 this project was completed as part of Udacity course.
 
+### project goal
+ensure that we get data on which city uses more bikeshare, which start and end point are most used.
+
+### code used
+python
